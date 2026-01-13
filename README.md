@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native, Nextjs and Cloud deployment**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **michaeljameslabitad018@gamil.com**
 
