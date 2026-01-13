@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Michael James Labitad</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate developer from Philippines</h3>
 <img align ="right" alt="Coding" width="400" src="https://media.tenor.com/s0VWUEOHz9kAAAAd/elbformat-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killy101&label=Profile%20views&color=0e75b6&style=flat" alt="killy101" /> </p>
 
-- 🌱 I’m currently learning **React Native, Flutter**
+- 🌱 I’m currently learning **React Native, Nextjs and Cloud deployment**
 
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **michaeljameslabitad018@gamil.com**
-
-- ⚡ Fun fact **Joyable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
